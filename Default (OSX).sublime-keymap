@@ -1,0 +1,10 @@
+[
+    {
+        "keys": [
+            "alt+super+right"
+        ], 
+        "args": {}, 
+        "command": "php_coder_lookup", 
+        "context": []
+    }
+]

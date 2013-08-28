@@ -1,0 +1,1957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"incl",
+				"includePrivate"
+			],
+			[
+				"inc",
+				"includeStatic"
+			],
+			[
+				"sb",
+				"sublimephp"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"cac",
+				"cachedFile"
+			],
+			[
+				"sublime",
+				"sublimephp"
+			],
+			[
+				"sub",
+				"sublimephp"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"get",
+				"getLocal($db = \"mysql\")"
+			],
+			[
+				"mysql",
+				"mysql_close"
+			],
+			[
+				"dum",
+				"dump	dump"
+			],
+			[
+				"alert",
+				"alertIds"
+			],
+			[
+				"error",
+				"errorCheck"
+			],
+			[
+				"for",
+				"forceInterval"
+			],
+			[
+				"array",
+				"array_product"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"phoe",
+				"phoenix_color_blue"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"up",
+				"updatedQuery"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"to",
+				"toggle-advanced"
+			],
+			[
+				"quer",
+				"queries"
+			],
+			[
+				"query",
+				"queryIds"
+			],
+			[
+				"acc",
+				"accountId"
+			],
+			[
+				"accou",
+				"accountId"
+			],
+			[
+				"que",
+				"queryIds"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"insights",
+				"insights-overview"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"demo",
+				"demoDataProjectId"
+			],
+			[
+				"setupC",
+				"setupClickTale"
+			],
+			[
+				"allo",
+				"allowEmpty"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"focu",
+				"focussedOnNonName"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"sidebar-panel-",
+				"sidebar-panel-main"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"block",
+				"blocks"
+			],
+			[
+				"login",
+				"login-logo"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"Utils_",
+				"Utils_Array"
+			],
+			[
+				"hea",
+				"health"
+			],
+			[
+				"Sale",
+				"SalesForce_Client"
+			],
+			[
+				"Utils",
+				"Utils_Colors"
+			],
+			[
+				"h",
+				"hashToDec  (function)"
+			],
+			[
+				"wei",
+				"weight"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"newE",
+				"newEl"
+			],
+			[
+				"lead",
+				"leadId"
+			],
+			[
+				"con",
+				"contactforms"
+			],
+			[
+				"da",
+				"dashboards"
+			],
+			[
+				"sf",
+				"sfIdLead  (function)"
+			],
+			[
+				"Sales",
+				"SalesForce_Lead  (class)"
+			],
+			[
+				"mun",
+				"munchkinFunction"
+			],
+			[
+				"imagefilled",
+				"imagefilledrectangle"
+			],
+			[
+				"from",
+				"fromContactForm"
+			],
+			[
+				"reque",
+				"request_demo"
+			],
+			[
+				"sfI",
+				"sfIdTask  (function)"
+			],
+			[
+				"lea",
+				"leadId"
+			],
+			[
+				"contact",
+				"contactform"
+			],
+			[
+				"CHANGE_CON",
+				"CHANGE_CONTACT_FORM_LEAD"
+			],
+			[
+				"ow",
+				"ownerId"
+			],
+			[
+				"set",
+				"setOwnerId  (function)"
+			],
+			[
+				"setW",
+				"setWhoId  (function)"
+			],
+			[
+				"CHAN",
+				"CHANGE_CREATE  (constant)"
+			],
+			[
+				"SAle",
+				"SalesForce_Task  (class)"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"g",
+				"getValidContinents  (function)"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"m",
+				"makeResultSetColumnKey  (function)"
+			],
+			[
+				"compa",
+				"company_id"
+			],
+			[
+				"tri",
+				"triggerUserEmail"
+			],
+			[
+				"trigg",
+				"triggerOtherEmail"
+			],
+			[
+				"Email",
+				"EmailHeader  (class)"
+			],
+			[
+				"crea",
+				"createAccounts"
+			],
+			[
+				"upda",
+				"updateAccounts"
+			],
+			[
+				"ali",
+				"alias"
+			],
+			[
+				"alia",
+				"aliasses"
+			],
+			[
+				"PL",
+				"PLAN_RESELLER  (constant)"
+			],
+			[
+				"_con",
+				"_convertEngagorData"
+			],
+			[
+				"Engagor",
+				"Engagor_Account_ID__c"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"_cr",
+				"_createAccountRole  (function)"
+			],
+			[
+				"co",
+				"_connect  (function)"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"CHANGE_",
+				"CHANGE_CREATE_CONTACT"
+			],
+			[
+				"sales",
+				"salesforce_contact"
+			],
+			[
+				"CH",
+				"CHANGE_CONTACT"
+			],
+			[
+				"CHANG",
+				"CHANGE_CONTACT"
+			],
+			[
+				"account",
+				"account_id"
+			],
+			[
+				"dup",
+				"dupId"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"ENG",
+				"ENGAGOR_ACCOUNT_ID  (constant)"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"SalesForce",
+				"SalesForce_Cache  (class)"
+			],
+			[
+				"k",
+				"makeResultSetColumnKey  (function)"
+			],
+			[
+				"TYPE",
+				"TYPE_ACCOUNT"
+			],
+			[
+				"STA",
+				"STATUS_TRIAL  (constant)"
+			],
+			[
+				"First",
+				"FirstName"
+			],
+			[
+				"STAT",
+				"STATUS_WTF"
+			],
+			[
+				"array_",
+				"array_pop"
+			],
+			[
+				"li",
+				"lifecycle"
+			],
+			[
+				"ST",
+				"STATUS_PAYING  (constant)"
+			],
+			[
+				"STATUS",
+				"STATUS_TRIAL"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"sdr",
+				"sdr_o"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"expo",
+				"exportData  (function)"
+			],
+			[
+				"subsc",
+				"subscriptions"
+			],
+			[
+				"planI",
+				"planId"
+			],
+			[
+				"date_crea",
+				"date_created"
+			],
+			[
+				"fetch",
+				"fetchAll  (function)"
+			],
+			[
+				"autho",
+				"author_followers"
+			],
+			[
+				"log",
+				"logId"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"custom",
+				"custom_error"
+			],
+			[
+				"Service",
+				"Services_Facebook_Manager"
+			],
+			[
+				"batchRe",
+				"batchRequest"
+			],
+			[
+				"batchR",
+				"batchResult"
+			],
+			[
+				"_R",
+				"$_request  (variable)"
+			],
+			[
+				"batch",
+				"batchResult"
+			],
+			[
+				"new",
+				"newHeader"
+			],
+			[
+				"fb_error",
+				"fb_error_headers"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"curl",
+				"curl_error"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "php-plugin.py",
+			"settings":
+			{
+				"buffer_size": 10416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sublimephp/view.py",
+			"settings":
+			{
+				"buffer_size": 3394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sublimephp/manager.py",
+			"settings":
+			{
+				"buffer_size": 1737,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sublimephp/__init__.py",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"gitann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"addcur",
+				"Git: Add Current File"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"it add",
+				"Git: Add Current File"
+			],
+			[
+				"gita",
+				"Git: Add Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"gitad",
+				"Git: Add Current File"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"rake",
+				"Package Control: Discover Packages"
+			],
+			[
+				"togglean",
+				"Git: Toggle Annotations"
+			],
+			[
+				"toggle",
+				"Git: Toggle Annotations"
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"git gr",
+				"Git: Graph Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git gi",
+				"Git: Gitk"
+			],
+			[
+				"git ",
+				"Git: Gui"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Format: Php"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"subl",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"view.window",
+			"dir(view)",
+			"view",
+			"import sublimephp.manager.Manager",
+			"dir(sublimephp.manager)",
+			"import sublimephp.manager",
+			"dir(sublimephp)",
+			"import sublimephp",
+			"sublimephp.manager",
+			"sublimephp.__ALL__",
+			"dir(sublimephp)",
+			"sublimephp",
+			"import sublimephp",
+			"sublimephp",
+			"php.manager",
+			"import php",
+			"dir(php)",
+			"dir(php.__builtins__)",
+			"dir(php)",
+			"dir(Manager)",
+			"sublimephp.__path__",
+			"php.__path__",
+			"dir(sublimephp)",
+			"import sublimephp",
+			"import ddphp",
+			"dir(php)",
+			"import php",
+			"dir(php)",
+			"sublime.packages_path()",
+			"sublime.installed_packages_path()",
+			"os.sep",
+			"import os",
+			"os",
+			"sublime.packages_path()",
+			"sublime.installed_packages_path()",
+			"sublime.cache_path()",
+			"__GLOBALS__",
+			"_GLOBALS",
+			"GLOBALS",
+			"dir(__globals__)",
+			"dir(__builtins__)",
+			"__builtins__",
+			"dir(__builtin__)",
+			"view.show_popup_menu(window.lookup_symbol_in_index('DB'), \"\")",
+			"view.show_popup_menu(window.lookup_symbol_in_index('DB'), None)",
+			"view.show_popup_menu(window.lookup_symbol_in_index('DB'))",
+			"window.lookup_symbol_in_index('DB')",
+			"window.lookup_symbol_in_index('Utils_Array')",
+			"window.lookup_symbol_in_index('Debug,dump')",
+			"window.lookup_symbol_in_index('Debug@dump')",
+			"window.lookup_symbol_in_index('Debug#dump')",
+			"window.lookup_symbol_in_index('Debug:dump')",
+			"window.lookup_symbol_in_index('dump')",
+			"window.lookup_symbol_in_index('DooController')",
+			"window.lookup_symbol_in_index('Debug')",
+			"Window.lookup_symbol_in_index('Debug')",
+			"lookup_symbol_in_index('Debug')",
+			"view.scope_name(view.sel()[0].b)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/SublimeEngagor/test.py",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/SublimeEngagor/sublimephp.sublime-project",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/SublimeEngagor/php/manager.py",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Json.php",
+		"/Users/folke/projects/engagor/api/classes/class.geonames.php",
+		"/Users/folke/projects/engagor/lib/dooframework/cache/DooMemCache.php",
+		"/Users/folke/projects/engagor/api/classes/class.db.php",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/StatusController.php",
+		"/Users/folke/projects/engagor/app/protected/class/HighChart.php",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Array.php",
+		"/Users/folke/projects/engagor/app/protected/class/accounts/ChartBuilder.php",
+		"/Users/folke/projects/engagor/api/classes/class.util.php",
+		"/Users/folke/projects/engagor/app/protected/class/query/Status.php",
+		"/Users/folke/projects/engagor/app/protected/controller/CoreController.php",
+		"/Users/folke/projects/engagor/app/protected/controller/QueryController.php",
+		"/Users/folke/projects/engagor/app/protected/view/query.buzz.html",
+		"/Users/folke/projects/engagor/app/protected/class/search/elastic/Search.php",
+		"/Users/folke/projects/engagor/api/scripts/firehoseConsumerTrendiction.php",
+		"/Users/folke/projects/engagor/app/protected/class/services/trendiction/Fetcher.php",
+		"/Users/folke/projects/engagor/app/protected/class/services/trendiction/Manager.php",
+		"/Users/folke/projects/engagor/api/classes/class.debugcounters.php",
+		"/Users/folke/projects/engagor/app/protected/class/CacheVersion.php",
+		"/Users/folke/projects/engagor/api/classes/class.debug.php",
+		"/Users/folke/projects/engagor/lib/dooframework/deployment/deploy.php",
+		"/Users/folke/projects/engagor/lib/dooframework/Doo.php",
+		"/Users/folke/projects/engagor/lib/dooframework/cache/DooApcCache.php",
+		"/Users/folke/projects/engagor/app/protected/class/firehose/Trendiction.php",
+		"/Users/folke/projects/engagor/app/protected/class/mentions/Category.php",
+		"/Users/folke/projects/engagor/lib/dooframework/uri/DooUriRouter.php",
+		"/Users/folke/projects/engagor/app/protected/class/Debugger.php",
+		"/Users/folke/projects/engagor/app/global/js/engagor.urlshortener.js",
+		"/Users/folke/projects/engagor/app/global/js/engagor.app.js",
+		"/Users/folke/projects/engagor/app/protected/config/routes.conf.php",
+		"/Users/folke/projects/engagor/app/protected/controller/UrlShortenerController.php",
+		"/Users/folke/projects/engagor/app/global/js/debug.js",
+		"/Users/folke/projects/engagor/app/protected/class/services/urlshorteners/Manager.php",
+		"/Users/folke/projects/engagor/app/protected/class/services/urlshorteners/Bitly.php",
+		"/Users/folke/projects/engagor/api/config.inc",
+		"/Users/folke/projects/engagor/api/scripts/serverDensitySync.php",
+		"/Users/folke/projects/engagor/app/protected/class/ServerDensity.php",
+		"/Users/folke/projects/engagor/app/protected/class/Errors.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/status.serverdensity.alerts.html",
+		"/Users/folke/projects/engagor/lib/dooframework/controller/DooController.php",
+		"/Users/folke/projects/engagor/api/scripts/test.php",
+		"/Users/folke/projects/engagor/system/sd-agent/EngagorBase.py",
+		"/Users/folke/projects/engagor/app/protected/serverdensity/App.php",
+		"/Users/folke/projects/engagor/app/protected/controller/services/TwitterInsightsController.php",
+		"/Users/folke/projects/engagor/app/protected/class/services/twitter/ComputedStats.php",
+		"/Users/folke/projects/engagor/app/protected/class/services/Insights.php",
+		"/Users/folke/projects/engagor/app/protected/controller/settings/QueryController.php",
+		"/Users/folke/projects/engagor/app/protected/class/query/ConnectedServices.php",
+		"/Users/folke/projects/engagor/Rakefile",
+		"/Users/folke/projects/engagor/engagor.sublime-project",
+		"/Users/folke/projects/engagor/lib/simpletest/errors.php",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/TestController.php",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/folke/projects/engagor/lib/Basho/Riak/Utils.php",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/folke/projects/engagor/app/global/sass/_app.scss",
+		"/Users/folke/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/folke/projects/engagor/app/protected/view/settings/topics.edit.html",
+		"/Users/folke/projects/engagor/app/protected/controller/InboxController.php",
+		"/Users/folke/projects/engagor/app/protected/view/setup.html",
+		"/Users/folke/projects/engagor/app/global/sass/_messages.scss",
+		"/Users/folke/projects/engagor/app/protected/crud/QueryCrud.php",
+		"/Users/folke/projects/engagor/app/protected/controller/ProjectController.php",
+		"/Users/folke/projects/engagor/app/protected/class/Project.php",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query/edit.include.html",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query/create.html",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query/keywordsearch.html",
+		"/Users/folke/projects/engagor/app/protected/view/includes/header.standard.html",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Url.php",
+		"/Users/folke/projects/engagor/app/protected/view/login.html",
+		"/Users/folke/projects/engagor/app/global/js/engagor.js",
+		"/Users/folke/projects/engagor/app/global/js/engagor.trackers.js",
+		"/Users/folke/projects/engagor/app/protected/class/accounts/Volume.php",
+		"/Users/folke/projects/engagor/app/protected/controller/SettingsController.php",
+		"/Users/folke/projects/engagor/app/protected/view/users/registration/step1.html",
+		"/Users/folke/projects/engagor/app/protected/view/users/registration/step1b.html",
+		"/Users/folke/projects/engagor/app/protected/view/settings/account.edit.html",
+		"/Users/folke/projects/engagor/app/protected/class/Totango.php",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/SyncController.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/sync.account.html",
+		"/Users/folke/projects/engagor/app/protected/class/salesforce/Cache.php",
+		"/Users/folke/projects/engagor/app/protected/class/SubscriptionMetrics.php",
+		"/Users/folke/projects/engagor/api/scripts/syncSalesForce.php",
+		"/Users/folke/projects/engagor/app/protected/class/salesforce/Sync.php",
+		"/Users/folke/projects/engagor/app/protected/view/dashboard/dashboard.custom.html",
+		"/Users/folke/projects/engagor/app/protected/view/performance/activity.html",
+		"/Users/folke/projects/engagor/app/global/js/engagor.fastdom.js",
+		"/Users/folke/projects/engagor/app/global/js/engagor.history.js",
+		"/Users/folke/projects/engagor/app/global/js/engagor.dashboard.js",
+		"/Users/folke/projects/engagor/app/global/js/view/accounts.js",
+		"/Users/folke/projects/engagor/app/protected/view/dashboard/index.account.html",
+		"/Users/folke/projects/engagor/app/protected/view/insights/index.html",
+		"/Users/folke/projects/engagor/app/protected/layout/insights.html",
+		"/Users/folke/projects/engagor/app/global/js/jquery.masonry.min.js",
+		"/Users/folke/projects/engagor/app/protected/view/includes/header.core.html",
+		"/Users/folke/projects/engagor/app/protected/layout/registration.html",
+		"/Users/folke/projects/engagor/app/global/js/engagor.help.js",
+		"/Users/folke/projects/engagor/app/global/js/engagor.mentions.js",
+		"/Users/folke/projects/engagor/app/protected/class/Stats.php",
+		"/Users/folke/projects/engagor/app/protected/plugin/TemplateTag.php",
+		"/Users/folke/projects/engagor/app/protected/view/inbox/list.html",
+		"/Users/folke/projects/engagor/app/protected/controller/DashboardController.php",
+		"/Users/folke/projects/engagor/app/protected/class/User.php",
+		"/Users/folke/projects/engagor/app/protected/controller/users/RegistrationController.php",
+		"/Users/folke/projects/engagor/app/protected/view/dashboard/index.html",
+		"/Users/folke/projects/engagor/app/global/sass/registration.scss",
+		"/Users/folke/projects/engagor/api/classes/class.shard.php",
+		"/Users/folke/projects/engagor/api/classes/class.tracking.php",
+		"/Users/folke/projects/engagor/app/protected/layout/legal.html",
+		"/Users/folke/projects/engagor/app/protected/controller/MainController.php",
+		"/Users/folke/projects/engagor/app/protected/class/users/Registration.php",
+		"/Users/folke/projects/engagor/app/protected/view/about/mastersubscriptionagreement.html",
+		"/Users/folke/projects/engagor/app/protected/view/about/privacypolicy.html",
+		"/Users/folke/projects/engagor/app/global/js/engagor.sidebar.js",
+		"/Users/folke/projects/engagor/app/global/css/pictonic/css/pictonic.css",
+		"/Users/folke/projects/engagor/app/global/js/engagor.pseudo.js",
+		"/Users/folke/projects/engagor/app/global/js/modernizr.custom.92283.js",
+		"/Users/folke/projects/engagor/app/global/js/underscore-min.js",
+		"/Users/folke/projects/engagor/lib/trendictionclient-2.1.1/php/phpdoc/js/sidebar.js",
+		"/Users/folke/projects/engagor/app/protected/config/assets.conf.yaml",
+		"/Users/folke/projects/engagor/app/global/sass/engagor.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.css",
+			"*.js",
+			"*.html",
+			"*.*",
+			"*.scss",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.hyml",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.*",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*",
+			"*.js",
+			"*",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.*",
+			"*.php",
+			"*.html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"method",
+			"getcompl",
+			"expr['expr']",
+			"self.pos",
+			"view",
+			"Doo::cache",
+			"DooViewBasic",
+			"Services_UrlShorteners_Manager",
+			"trackclick",
+			".wappy",
+			"REQUEST_TIME",
+			"Before start was already running",
+			"_parseAler",
+			"errorCheck",
+			"this->query =",
+			"this->query",
+			"compareInsights",
+			"$trigger['interval']",
+			"super+p",
+			"dump",
+			"line",
+			"sump",
+			"will be available in a couple of minutes",
+			"Query_Status",
+			"tabs",
+			"padding: 10px 0;",
+			"visual",
+			"simple",
+			"query_simpl",
+			"Separate words with spaces",
+			"Monitored Services",
+			"what",
+			"Create A New Topic",
+			"like to know a few",
+			"Monitored",
+			"Before setting up",
+			"account_max_volume",
+			"Totango",
+			"_vwo_code",
+			"yepnope",
+			"welcome",
+			"track",
+			"showMonitoredProfileIcons",
+			"10",
+			"masonry",
+			"component-wrapper",
+			"getDemoDataProjectForAccount",
+			"counters",
+			"You can always view this tutorial again by clicking",
+			"messageContent",
+			"Accounts_Manager::add",
+			"step1",
+			"messageContent",
+			"messagesWrapperInPage",
+			"small",
+			"privac",
+			"newslett",
+			"password2",
+			"hide",
+			"start my free trial",
+			"trim",
+			"_",
+			"Modernizr",
+			"modernizr",
+			"panel",
+			"wappy-",
+			"wappy-loaded",
+			"headerMenuSettings",
+			"toolbar-toggle-sidebar",
+			"this",
+			"styles",
+			"tripler",
+			"Tripler.stop",
+			"Tripler.start",
+			"dismis",
+			"trip",
+			"messageWrapper",
+			"html",
+			"body",
+			"create an engagor account",
+			"body",
+			"20",
+			"480px",
+			"controller",
+			"login",
+			"app-layout",
+			"Trial Signup Conversion",
+			"dashboard",
+			"welcome",
+			"registration_2",
+			"dashboard=1",
+			"welcome=1",
+			"footer article h4",
+			"counts",
+			"twitter",
+			"counters",
+			"friend",
+			"query_connectedservices_details",
+			"each",
+			"contactforms",
+			"foreground",
+			"$w",
+			"$s",
+			"width",
+			"$data",
+			"error",
+			"dump",
+			"SELECT Id from",
+			"SELECT Id from Lead",
+			"_where",
+			"activity_5m",
+			"$['",
+			"lead",
+			"account",
+			"AdminStatus",
+			"#",
+			"theColorBegin",
+			"Utils_Colors::generate",
+			"generate",
+			"interpolate",
+			"MainCon",
+			"colorFront",
+			"colorBack",
+			"Highlight",
+			"back",
+			"$this->ColorBG_R",
+			"fg",
+			"foreground"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"INPUT_SIZE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "php-plugin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4764,
+								4764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1046.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sublimephp/view.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								867,
+								867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 212.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sublimephp/manager.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1169,
+								1169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 221.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sublimephp/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "sublimephp.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"servers.pp",
+				"app/protected/class/Servers.php"
+			],
+			[
+				"servercon",
+				"app/protected/config/servers.conf.php"
+			],
+			[
+				"class.db",
+				"api/classes/class.db.php"
+			],
+			[
+				"class.util",
+				"api/classes/class.util.php"
+			],
+			[
+				"scripttren",
+				"api/scripts/firehoseConsumerTrendiction.php"
+			],
+			[
+				"trendiction",
+				"app/protected/class/firehose/Trendiction.php"
+			],
+			[
+				"adminstatuc",
+				"app/protected/controller/admin/StatusController.php"
+			],
+			[
+				"class.debu",
+				"api/classes/class.debug.php"
+			],
+			[
+				"querycon",
+				"app/protected/controller/QueryController.php"
+			],
+			[
+				"query.html",
+				"app/protected/view/query.buzz.html"
+			],
+			[
+				"serviceurlshobitl",
+				"app/protected/class/services/urlshorteners/Bitly.php"
+			],
+			[
+				"urlshortmana",
+				"app/protected/class/services/urlshorteners/Manager.php"
+			],
+			[
+				"urlshortenercontroller",
+				"app/protected/controller/UrlShortenerController.php"
+			],
+			[
+				"routes",
+				"app/protected/config/routes.conf.php"
+			],
+			[
+				"debugjs",
+				"app/global/js/debug.js"
+			],
+			[
+				"debugger",
+				"app/protected/class/Debugger.php"
+			],
+			[
+				"dooro",
+				"lib/dooframework/uri/DooUriRouter.php"
+			],
+			[
+				"corecon",
+				"app/protected/controller/CoreController.php"
+			],
+			[
+				"config",
+				"api/config.inc"
+			],
+			[
+				"doocontr",
+				"lib/dooframework/controller/DooController.php"
+			],
+			[
+				"serverde",
+				"app/protected/view/admin/status.serverdensity.alerts.html"
+			],
+			[
+				"adminstatusc",
+				"app/protected/controller/admin/StatusController.php"
+			],
+			[
+				"densy",
+				"api/scripts/serverDensitySync.php"
+			],
+			[
+				"serverden",
+				"app/protected/class/ServerDensity.php"
+			],
+			[
+				"queryconnectedsephp",
+				"app/protected/class/query/ConnectedServices.php"
+			],
+			[
+				"settingsquerycon",
+				"app/protected/controller/settings/QueryController.php"
+			],
+			[
+				"servicetwittercomp",
+				"app/protected/class/services/twitter/ComputedStats.php"
+			],
+			[
+				"servicestwitterins",
+				"app/protected/controller/services/TwitterInsightsController.php"
+			],
+			[
+				"insights",
+				"app/protected/class/services/Insights.php"
+			],
+			[
+				"app.php",
+				"app/protected/serverdensity/App.php"
+			],
+			[
+				"engagorba",
+				"system/sd-agent/EngagorBase.py"
+			],
+			[
+				"test",
+				"api/scripts/test.php"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"errors",
+				"app/protected/class/Errors.php"
+			],
+			[
+				"error",
+				"lib/simpletest/errors.php"
+			],
+			[
+				"adminstatu",
+				"app/protected/controller/admin/StatusController.php"
+			],
+			[
+				"coreco",
+				"app/protected/controller/CoreController.php"
+			],
+			[
+				"admintest",
+				"app/protected/controller/admin/TestController.php"
+			],
+			[
+				"utilphp",
+				"lib/Basho/Riak/Utils.php"
+			],
+			[
+				"corec",
+				"app/protected/controller/CoreController.php"
+			],
+			[
+				"servitrendicfet",
+				"app/protected/class/services/trendiction/Fetcher.php"
+			],
+			[
+				"trendicphp",
+				"api/scripts/firehoseConsumerTrendiction.php"
+			],
+			[
+				"util",
+				"lib/Basho/Riak/Utils.php"
+			],
+			[
+				"appscss",
+				"app/global/sass/_app.scss"
+			],
+			[
+				"orecon",
+				"app/protected/controller/CoreController.php"
+			],
+			[
+				"_mess",
+				"app/global/sass/_messages.scss"
+			],
+			[
+				"topicsedit",
+				"app/protected/view/settings/topics.edit.html"
+			],
+			[
+				"inboxcon",
+				"app/protected/controller/InboxController.php"
+			],
+			[
+				"querystat",
+				"app/protected/class/query/Status.php"
+			],
+			[
+				"querycontr",
+				"app/protected/controller/QueryController.php"
+			],
+			[
+				"topics.",
+				"app/protected/view/settings/topics.edit.html"
+			],
+			[
+				"headerstan",
+				"app/protected/view/includes/header.standard.html"
+			],
+			[
+				"querycr",
+				"app/protected/crud/QueryCrud.php"
+			],
+			[
+				"projectcon",
+				"app/protected/controller/ProjectController.php"
+			],
+			[
+				"project",
+				"app/protected/class/Project.php"
+			],
+			[
+				"accountedit",
+				"app/protected/view/settings/account.edit.html"
+			],
+			[
+				"settingscontr",
+				"app/protected/controller/SettingsController.php"
+			],
+			[
+				"track",
+				"app/global/js/engagor.trackers.js"
+			],
+			[
+				"login",
+				"app/protected/view/login.html"
+			],
+			[
+				"appscs",
+				"app/global/sass/_app.scss"
+			],
+			[
+				"step1",
+				"app/protected/view/users/registration/step1.html"
+			],
+			[
+				"engagor.app",
+				"app/global/js/engagor.app.js"
+			],
+			[
+				"engagor",
+				"app/global/js/engagor.js"
+			],
+			[
+				"salesfor",
+				"api/scripts/syncSalesForce.php"
+			],
+			[
+				"syncsa",
+				"api/scripts/syncSalesForce.php"
+			],
+			[
+				"syncacc",
+				"app/protected/view/admin/sync.account.html"
+			],
+			[
+				"route",
+				"app/protected/config/routes.conf.php"
+			],
+			[
+				"totang",
+				"app/protected/class/Totango.php"
+			],
+			[
+				"fastdom",
+				"app/global/js/engagor.fastdom.js"
+			],
+			[
+				"historyjs",
+				"app/global/js/engagor.history.js"
+			],
+			[
+				"engagorapp",
+				"app/global/js/engagor.app.js"
+			],
+			[
+				"ccountjs",
+				"app/global/js/view/accounts.js"
+			],
+			[
+				"accountsjs",
+				"app/global/js/view/accounts.js"
+			],
+			[
+				"masonry",
+				"app/global/js/jquery.masonry.min.js"
+			],
+			[
+				"dashboardjs",
+				"app/global/js/engagor.dashboard.js"
+			],
+			[
+				"dashboardhtml",
+				"app/protected/view/dashboard/dashboard.custom.html"
+			],
+			[
+				"mentionsjs",
+				"app/global/js/engagor.mentions.js"
+			],
+			[
+				"headerc",
+				"app/protected/view/includes/header.core.html"
+			],
+			[
+				"tracker",
+				"app/global/js/engagor.trackers.js"
+			],
+			[
+				"registrat",
+				"app/protected/layout/registration.html"
+			],
+			[
+				"engagortrack",
+				"app/global/js/engagor.trackers.js"
+			],
+			[
+				"rakefil",
+				"Rakefile"
+			],
+			[
+				"headerstand",
+				"app/protected/view/includes/header.standard.html"
+			],
+			[
+				"headercor",
+				"app/protected/view/includes/header.core.html"
+			],
+			[
+				"indexacc",
+				"app/protected/view/dashboard/index.account.html"
+			],
+			[
+				"dashboardcon",
+				"app/protected/controller/DashboardController.php"
+			],
+			[
+				"indexhtml",
+				"app/protected/view/dashboard/index.html"
+			],
+			[
+				"registrationcon",
+				"app/protected/controller/users/RegistrationController.php"
+			],
+			[
+				"querystatus",
+				"app/protected/class/query/Status.php"
+			],
+			[
+				"shard.php",
+				"api/classes/class.shard.php"
+			],
+			[
+				"class.shard",
+				"api/classes/class.shard.php"
+			],
+			[
+				"regi",
+				"app/protected/layout/registration.html"
+			],
+			[
+				"master",
+				"app/protected/view/about/mastersubscriptionagreement.html"
+			],
+			[
+				"legal",
+				"app/protected/layout/legal.html"
+			],
+			[
+				"maincon",
+				"app/protected/controller/MainController.php"
+			],
+			[
+				"registra",
+				"app/global/sass/registration.scss"
+			],
+			[
+				"trackingphp",
+				"api/classes/class.tracking.php"
+			],
+			[
+				"registr",
+				"app/global/sass/registration.scss"
+			],
+			[
+				"pseud",
+				"app/global/js/engagor.pseudo.js"
+			],
+			[
+				"header",
+				"app/protected/view/includes/header.standard.html"
+			],
+			[
+				"undersc",
+				"app/global/js/underscore-min.js"
+			],
+			[
+				"pictonic",
+				"app/global/css/pictonic/css/pictonic.css"
+			],
+			[
+				"regitr",
+				"app/global/sass/registration.scss"
+			],
+			[
+				"index.accou",
+				"app/protected/view/dashboard/index.account.html"
+			],
+			[
+				"dash",
+				"app/protected/controller/DashboardController.php"
+			],
+			[
+				"step",
+				"app/protected/view/users/registration/step1b.html"
+			],
+			[
+				"sideba",
+				"app/global/js/engagor.sidebar.js"
+			],
+			[
+				"sidebar",
+				"lib/trendictionclient-2.1.1/php/phpdoc/js/sidebar.js"
+			],
+			[
+				"engagoapp",
+				"app/global/js/engagor.app.js"
+			],
+			[
+				"_core",
+				"app/global/sass/_core.scss"
+			],
+			[
+				"core",
+				"app/global/sass/_core.scss"
+			],
+			[
+				"picton",
+				"app/global/css/pictonic/css/pictonic.css"
+			],
+			[
+				"messagejs",
+				"app/global/js/engagor.messages.js"
+			],
+			[
+				"appjs",
+				"app/global/js/engagor.app.js"
+			],
+			[
+				"useruser",
+				"app/protected/controller/users/UserController.php"
+			],
+			[
+				"asse",
+				"app/protected/config/assets.conf.yaml"
+			],
+			[
+				"usersusercontroller",
+				"app/protected/controller/users/UserController.php"
+			],
+			[
+				"rout",
+				"app/protected/config/routes.conf.php"
+			],
+			[
+				"registratcon",
+				"app/protected/controller/users/RegistrationController.php"
+			],
+			[
+				"headercore",
+				"app/protected/view/includes/header.core.html"
+			],
+			[
+				"class.sea",
+				"api/classes/class.search.php"
+			],
+			[
+				"profilecontr",
+				"app/protected/controller/contacts/ProfileController.php"
+			],
+			[
+				"profiledetail",
+				"app/protected/view/contacts/profile.details.html"
+			],
+			[
+				"profilehtml",
+				"app/protected/view/contacts/profile.html"
+			],
+			[
+				"profilephp",
+				"app/protected/class/contacts/Profile.php"
+			],
+			[
+				"admintestc",
+				"app/protected/controller/admin/TestController.php"
+			],
+			[
+				"queryconn",
+				"app/protected/class/query/ConnectedServices.php"
+			],
+			[
+				"highch",
+				"app/protected/class/HighChart.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/engagor-wordpress/engagor-wordpress.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"dump",
+				"dump"
+			]
+		],
+		"width": 678.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

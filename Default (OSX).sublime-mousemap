@@ -1,0 +1,7 @@
+[
+    {
+        "button": "button1", "count": 1, "modifiers": ["alt"],
+        "press_command": "php_coder_lookup",
+        "press_args": {}
+    }
+]
