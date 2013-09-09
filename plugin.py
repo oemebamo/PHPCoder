@@ -13,6 +13,8 @@ TODO:
     # keep mapping of files, classes, mtime
     # on app start, only index files that are needed
     [ ] fix isEnabled on commands
+    [ ] prevent doubles everywhere
+    [ ] better php stubs
 
 '''
 
@@ -57,6 +59,8 @@ class PhpCoderComplete(sublime_plugin.EventListener):
         editor = PhpCoder().editor(view)
         doComplete = False
         line = editor.before()
+        if len(line) == 0:
+            return
         if re.match(r'.*[,\(]\s*$', line) or line[-1] == '$' or re.match(r'.*new [a-zA-Z0-9_]*$', line):
             doComplete = True
         else:

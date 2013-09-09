@@ -40,7 +40,7 @@ class Editor:
             stubFile = os.path.dirname(os.path.abspath(__file__)) + os.sep + '..' + os.sep + 'stubs' + os.sep + symbol + '.php'
             if os.path.isfile(stubFile):
                 index.append([stubFile, stubFile, [0,0]])
-            for loc in self.view.window().lookup_symbol_in_index(symbol):
+            for loc in index:
                 path = loc[1]
                 if path[-3:] != 'php':
                     continue

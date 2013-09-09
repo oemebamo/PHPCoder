@@ -5,6 +5,7 @@ class Indexer:
     def __init__(self):
         self.index = {}
         self.folders = {}
+        self.stubs = os.path.abspath(os.path.dirname(os.path.abspath(__file__)) + os.sep + '..' + os.sep + 'stubs')
 
     def indexFile(self, path):
         if not path:
@@ -20,6 +21,7 @@ class Indexer:
 
     def getClasses(self, folders, mode = 'lookup'):
         ret = []
+        folders.append(self.stubs)
         for (path, data) in self.index.items():
             if not data['classes']:
                 continue
@@ -33,6 +35,7 @@ class Indexer:
         return ret
 
     def update(self, folders, refresh = False):
+        folders.append(self.stubs)
         indent = (12 * ' ') + 'PHP Coder: '
         # TODO: also index stubs
         todo = []
