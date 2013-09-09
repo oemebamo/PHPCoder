@@ -159,11 +159,11 @@ class PHPIntel_Parser extends PHPParser_NodeVisitorAbstract {
             case 'Expr_StaticPropertyFetch':
                 return self::_combine(self::simplify($node->class), self::simplify($node->name), '%s::$%s');
             case 'Expr_FuncCall':
-                return array(self::simplify($node->name)[0] . '()');
+                return array(current(self::simplify($node->name)) . '()');
             case 'Expr_Variable':
                 return array('$' . $node->name);
             case 'Expr_New':
-                return array('new ' . self::simplify($node->class)[0] . '()');
+                return array('new ' . current(self::simplify($node->class)) . '()');
                 break;
             case 'Name':
                 return array('' . $node);
