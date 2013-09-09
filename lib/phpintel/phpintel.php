@@ -1,6 +1,6 @@
 <?php
 ini_set('short_open_tag', true);
-ini_set('memory_limit', '128M');
+ini_set('memory_limit', '256M');
 
 
 include 'config.inc.php';
