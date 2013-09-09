@@ -11,4 +11,4 @@ It provides the following features:
 * php 5.3.1
 
 ## Installing
-`git clone` or download this plugin to your Sublime Text "Packages" directory
+`git clone` or download and unzip this plugin in your Sublime Text "Packages" directory
